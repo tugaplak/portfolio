@@ -41,3 +41,4 @@ const obs = new IntersectionObserver(
 );
 
 revealEls.forEach((el) => obs.observe(el));
+
